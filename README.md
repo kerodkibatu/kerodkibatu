@@ -25,6 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerodkibatu&show_icons=true&theme=dark&locale=en&layout=compact" alt="kerodkibatu" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerodkibatu&show_icons=true&theme=dark&locale=en" alt="kerodkibatu" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kerodkibatu&theme=dark" alt="kerodkibatu" /></p>
