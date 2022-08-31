@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Krane](https://github.com/kerodkibatu/Krane)
 
-- 🌱 I’m currently learning **C# and SFML.NET**
+- 🌱 I’m currently learning **C# and Computer Graphics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kerodkibatu](https://github.com/kerodkibatu)
 
