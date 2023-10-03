@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Krane](https://github.com/kerodkibatu/Krane)
 
-- 🌱 I’m currently learning **C# and Computer Graphics**
+- 🌱 I’m currently learning **Generative AI and The Transformer Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kerodkibatu](https://github.com/kerodkibatu)
 
-- 💬 Ask me about **C# and .NET**
+- 💬 Ask me about **C# and ML**
 
 - ⚡ Fun fact **the first programming language I learned was ActionScript**
 
