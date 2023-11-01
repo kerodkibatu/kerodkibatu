@@ -5,7 +5,7 @@
 <h3 align="left">About Me</h3>
 - I'm 16 and currently a grade 11 student
 
-- 🔭 I’m currently working on [Krane](https://github.com/kerodkibatu/Krane)
+- 🔭 I’m currently working on [Primordial Kinetic Life](https://github.com/kerodkibatu/PrimordialKineticLife)
 
 - 🌱 I’m currently learning **Generative AI and The Transformer Architecture**
 
