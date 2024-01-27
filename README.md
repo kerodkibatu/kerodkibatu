@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Primordial Kinetic Life](https://github.com/kerodkibatu/PrimordialKineticLife)
 
-- 🌱 I’m currently learning **Generative AI and The Transformer Architecture**
+- 🌱 I’m currently learning **Generative AI and NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kerodkibatu](https://github.com/kerodkibatu)
 
