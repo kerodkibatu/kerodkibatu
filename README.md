@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kerodkibatu&label=Profile%20views&color=35a0bb&style=flat-square" alt="kerodkibatu" /> </p>
 <h3 align="left">About Me</h3>
 
-- 🔭 I’m currently working on [Primordial Kinetic Life](https://github.com/kerodkibatu/PrimordialKineticLife)
+- 🔭 I’m currently working on **Generative AI and NLP**
 
-- 🌱 I’m currently learning **Generative AI and NLP**
+- 🌱 I’m currently learning **Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kerodkibatu](https://github.com/kerodkibatu)
 
